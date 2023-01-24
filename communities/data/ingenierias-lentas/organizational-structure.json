@@ -1,0 +1,32 @@
+{
+    "members" : [
+        {
+            "name" : "Eric Solomon",
+            "role" : "Manager"
+        },
+        {
+            "name" : "Daniel Olarte",
+            "role" : ""
+        },
+        {
+            "name" : "Nathalia Becerra",
+            "role" : ""
+        },
+        {
+            "name" : "Andrea Lievano",
+            "role" : ""
+        },
+        {
+            "name" : "Lucius Dickerson",
+            "role" : ""
+        },
+        {
+            "name" : "Luke Falkenstein",
+            "role" : ""
+        },
+        {
+            "name" : "Cyrus Vorwald",
+            "role" : ""
+        }
+    ]
+}
