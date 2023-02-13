@@ -1,0 +1,20 @@
+{
+    "members" : [
+        {
+            "name" : "Eric Solomon",
+            "role" : "Manager"
+        },
+        {
+            "name" : "Daniel Olarte",
+            "role" : "Manager"
+        },
+        {
+            "name" : "Nathalia Becerra",
+            "role" : "Manager"
+        },
+        {
+            "name" : "Andrea Lievano",
+            "role" : "Manager"
+        }
+    ]
+}
