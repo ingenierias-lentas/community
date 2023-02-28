@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "sistema",
+        "description" : "System specification for community and project management and funding"
+    },
+    {
+        "name" : "comunidades",
+        "description" : "Community management sub-system"
+    },
+    {
+        "name" : "proyectos",
+        "description" : "Project sub-system"
+    },
+    {
+        "name" : "votacion",
+        "description" : "Voting sub-system"
+    },
+    {
+        "name" : "fondos",
+        "description" : "Funding sub-system"
+    }
+]
